@@ -1,0 +1,7 @@
+# Ignore client node modules and environment vars
+/client/node_modules
+/client/.env
+
+# Ignore server node modules and environment vars
+/server/node_modules
+/server/.env
